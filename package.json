@@ -1,0 +1,8 @@
+{
+  "name": "demo_sql_nodejs",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "qs": "^6.10.5"
+  }
+}
